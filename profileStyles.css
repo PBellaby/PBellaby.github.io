@@ -1,0 +1,58 @@
+/* the html element selector means all of those elements */
+/* li {
+    color:dodgerblue;
+    font-size: 2rem;
+}
+
+p, h3 {
+    font-size: 1.2rem;
+    font-family: 'Comic Sans MS';
+} */
+
+/* id selector */
+
+#search {
+    background-color: blueviolet;
+    color: beige;
+    width: 50vw;
+}
+
+/* class selectors */
+.btn {
+    /* come back later */
+}
+
+/* wildcard selectors */
+* {
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+body {
+    background-color: rgb(194, 226, 194);
+    color: rgb(4, 11, 104);
+
+    font-family: "Comic Sans MS", "Times New Roman", Impact, cursive;
+    font-size: 1rem;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+.box-1 {
+    background-color: rgba(255,255,255, 0.2);
+}
+
+.box-2 {
+    background-color: rgba(0,0,0, 0.2);
+}
+
+.floating-box {
+    padding-left: 3rem;
+}
+
+.container {
+    width: 80vw;
+    margin: auto;
+}
